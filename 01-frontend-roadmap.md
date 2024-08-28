@@ -1,32 +1,70 @@
-# 1. Notes on Front End Developer Roadmap 2024
+# Notes on Front End Developer Roadmap 2024
 
 **Reference(s)**:
 - [Front End Developer Roadmap 2024](https://www.youtube.com/watch?v=9He4UBLyk8Y&list=PLWKjhJtqVAbmMuZ3saqRIBimAKIMYkt0E) by [freeCodeCamp.org](https://freecodecamp.org/)
 
-## [1] What is Frontend Development?
+## Frontend Development
 - Focuses on *what people see* and *what people can interact with*.
 - Runs through **HTML**, **CSS** and **Javascript**.
 - Aims to create websites, web apps and applications that are user-friendly and cross-platform.
 
-## [2] Where to Start?
+## Roadmap
 
-### [2.1] Understand How The Internet Works
+### 1. How The Internet Works
 
-> **GOALS** <br>
-Web Browsers, Web Engines, Websites, Web Applications, Electron Applications, Web Domain, Domain Name System, Servers & Protocols i.e. HTTP
+> Learn the functions of Web Browsers, Web Engines, Websites, Web Applications, Electron Applications, Web Domains, Domain Name Systems, Servers & Protocols i.e. HTTP
 
-### [2.2] Learn Web Development Languages
-#### [2.2.1] **HTML** or *Hypertext Markup Language* is the skeleton of a website.
-> **GOALS** <br>
-> Create a structured website, web app or application with links, headers, paragraphs, images and etc. by using tags and attributes like ```<code>...</code>```. <br>
+### 2. Web Development
+#### **HTML** or *Hypertext Markup Language* is the skeleton of a website.
+> Setup a Code Editor, and create a structured website, web app or application with links, headers, paragraphs, images and etc. by using tags and attributes like ```<code>...</code>```.
 
-#### [2.2.2] **CSS** or *Cascading Stylesheet* is the skin of a website.
-> **GOAL** <br>
+#### **CSS** or *Cascading Stylesheet* is the skin of a website.
 > Ensure that a website, web app or application is functional, pleasing to the eyes, and works on personal computers and mobile devides.
 
-#### [2.2.3] **JS** or *JavaScript* is the life force of a website.
-> **GOALS** <br>
+#### **JS** or *JavaScript* is the life force of a website.
 > Add animations, authorize payments, fetch data, validate forms and many more.
 
-### [2.3] Learn Prompts and Language Models
-* 
+### 3. Prompts and Language Models
+> Use prompts in ChatGPT, Google Bard and other Large Language Models (LLM).
+
+### 4. Git & GitHub
+
+> Learn Git and Github for managing repositories and version control systems, tracking changes, collaborating with other developers, code-sharing, deployment, and reverting to previous versions when things go wrong with the new one.
+
+### 5. Package Managers
+
+> Learn Node Package Manager or Yarn to install, update, remove, manage and modify package that are necessary for the development. 
+
+### 6. More JavaScript
+
+> Modern websites require sustainability and reusability, efficiency and enhanced performance, and maintainability.
+
+|Programs|Information|
+|--------|-----------|
+|Bootstrap|Grid System, Pre-designed Components|
+|SASS| CSS Advanced Styling|
+|React Native|Developing cross-platform applications|
+|Tailwind|CSS for rapid UI development <br/> Reduces the need for custom CSS|
+|Byte|Transpile, Minify, Bundle Modules <br/> Ensure reliability and functionality|
+|Jest|Unit Testing for JavaScript|
+|Cypress|In-testing for JavaScript <br/> Minimize bugs, Enhance quality|
+|TypeScript|A subset of JavaScript for static typing <br/> Potential issues are addressed before runtime|
+|Restful API <br/> graphQL <br/> NextJS|Security-driven data management|
+|AstroWeb|Introduces less JavaScript for faster load time|
+
+> A well-designed website has optimized images, leveraged browser cache and minimized server response times. [Google Lighthouse](https://lighthous.google.com/)
+
+### 7. Open Web Application Security Project
+> Open Web  Application Security Project (OWASP)
+guidelines assists developers on best practices in website security.
+
+## Learning Attitudes
+* Staying updated on the latest tech trends.
+* Engaging with the tech community
+* Experimenting with new tools
+* Striving for Excellence
+
+
+
+
+
